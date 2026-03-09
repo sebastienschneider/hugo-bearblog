@@ -5,7 +5,7 @@ description = "Exquis vertige de la main qui remonte sous la jupe d'une femme"
 tags = [
     "Esparbec",
     "fesses",
-    "cul nu",
+    "fessier",
 ]
 +++
 
