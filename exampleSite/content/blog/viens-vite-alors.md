@@ -3,11 +3,12 @@ title = "Viens vite alors"
 date = "2020-03-08"
 description = "Viens vite alors"
 tags = [
-    "Francoise Rey",
     "Exhibition",
     "Fellation",
 ]
 +++
+
+["La brûlure de la neige", paragraphe 3 - Françoise Rey]()
 
 — Viens vite, alors !
 
@@ -21,8 +22,12 @@ abois, le manège continue, en haut,
 en bas, le souffle d’Ellie dans mon
 cou se précipite, et soudain, elle se
 soulève, s’arc-boute des deux mains
-à mes épaules, crie : « Regarde,
-maintenant ! » en plantant ses yeux
+à mes épaules, crie : 
+
+« Regarde,
+maintenant ! » 
+
+en plantant ses yeux
 fous dans les miens, puis en
 baissant la tête, en indiquant la
 direction de notre étrange
@@ -38,6 +43,7 @@ m’annoncent la fin du délicieux
 calvaire et son apothéose, tandis
 qu’elle continue sa lente odyssée au
 long de mon bâton de dynamite.
+
 « Regarde, je le branle avec ma
 chatte, je le suce complet, j’écrase
 ma clito dessus, regarde, regarde
@@ -46,6 +52,7 @@ suite, je voudrais l’avoir dedans, je
 rêve de ça, l’avoir dedans, en plein,
 et le rêve, ça me fait venir, tu sens,
 tu sens ? »
+
 Si je sens ? Et comment ! La
 déflagration me part du creux des
 reins, m’électrocute le scrotum, me
