@@ -3,10 +3,11 @@ title = "Que diriez-vous d'une bonne fessée ?"
 date = "2025-03-08"
 description = "Que diriez-vous d'une bonne fessée ?"
 tags = [
-    "Esparbec",
     "Fessée",
 ]
 +++
+
+["Monsieur est servi", paragraphe 5. 'Première fessée' - Esparbec]()
 
 – Que diriez-vous d'une bonne fessée ?
 
