@@ -3,11 +3,12 @@ title = "Tu sais ce que j'aimerais ?"
 date = "2026-02-03" 
 description = "Toni, lui dis-je. Tu sais ce que j'aimerais ?"
 tags = [ 
-"Esparbec", 
 "Humiliation", 
 "punition", 
 ] 
 +++
+
+["Monsieur est servi", paragraphe 16. 'La cravache' - Esparbec]()
 
 – Toni, lui dis-je. Tu sais ce que j'aimerais ?
 
