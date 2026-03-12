@@ -1,0 +1,16 @@
+{{ define "main" }}
+<content>
+
+<h1>Tags</h1>
+
+<ul class="blog-posts">
+  {{ range .Data.Terms.Alphabetical }}
+  <li>
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>
+    <small>({{ .Count }})</small>
+  </li>
+  {{ end }}
+</ul>
+
+</content>
+{{ end }}
