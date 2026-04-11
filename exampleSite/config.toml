@@ -20,12 +20,12 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
 
 [params]
   description = "Thoughts on technology, development, and the web."
